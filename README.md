@@ -22,6 +22,6 @@ This app is generally built for Admin purposes on a small scale.
 # This is a team project as a part of our object oriented concepts course.
 # Team Members
 <br>
-Sanjana Afreen
+Sanjana Afreen,
 <br>
 Ayesha Binte Anis
